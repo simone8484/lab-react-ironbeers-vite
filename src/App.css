@@ -1,0 +1,94 @@
+.Navbar{
+    background-color:#7ab8ce;
+    height: 60px;
+    text-align: center;
+}
+
+.iconHome{
+    padding-top: 5px;
+}
+
+.navMenu{
+    text-align: center;
+}
+
+.titleCard {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.contentCard {
+    margin-top: 5px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.imaageBeer {
+    height: 120px;
+    padding-left: 10px;
+}
+
+.imaageMenu {
+    width: 100%;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+.beerName {
+    top: 20px;
+    text-align: initial;
+    padding-left: 35px;
+    right: 10px;
+}
+
+.beerDescription {
+    text-align: initial;
+    padding-left: 35px;
+    font-size: large;
+}
+
+.wrapImage{
+    min-width:80px!important;
+}
+
+.imaageBeerDetail{
+    height: 300px;
+}
+
+.detail{
+    padding-top: 25px;
+    text-align: center;
+}
+
+.detailNameBeer{
+    font-size: 2.5rem;
+    padding-left: 15px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+.detailAttenuationBeer{
+    padding-right: 15px;
+    padding-top: 10px;
+    text-align: right;
+}
+
+.detailTaglineBeer{
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.datailDescription {
+    margin-top: 20px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
